@@ -1,1 +1,1 @@
-#### **Sample Collation Folder**
+#### **Sample Micrographs Collation Folder**
